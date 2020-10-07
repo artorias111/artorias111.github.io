@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/artorias111/artorias111.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Him my name is [Artorias the Abysswalker](https://darksouls.wiki.fextralife.com/file/Dark-Souls/artorias_header_full.jpg?v=1529081239468) from Hidetaka Miyazaki's world of the Dark Souls Franchise. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My hobbies include crying over my pet wolf [Sif the great grey wolf](https://darksouls.wiki.fextralife.com/Great+Grey+Wolf+Sif), managing a huge fan following who've gone hollow, the [Abyss watchers gang](https://darksouls3.wiki.fextralife.com/Abyss+Watchers), and contributing to open source software. 
 
 ### Markdown
 
