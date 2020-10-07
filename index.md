@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page
 
-Him my name is [Artorias the Abysswalker](https://darksouls.wiki.fextralife.com/file/Dark-Souls/artorias_header_full.jpg?v=1529081239468) from Hidetaka Miyazaki's world of the Dark Souls Franchise. 
+Hi! I'm [Artorias the Abysswalker](https://darksouls.wiki.fextralife.com/file/Dark-Souls/artorias_header_full.jpg?v=1529081239468) from Hidetaka Miyazaki's world of the Dark Souls Franchise. 
 
 My hobbies include crying over my pet wolf [Sif the great grey wolf](https://darksouls.wiki.fextralife.com/Great+Grey+Wolf+Sif), managing a huge fan following who've gone hollow, the [Abyss watchers gang](https://darksouls3.wiki.fextralife.com/Abyss+Watchers), and contributing to open source projects. 
 
